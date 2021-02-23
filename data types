@@ -1,0 +1,20 @@
+examples of the diferent types of data in javascript
+var string = "this is a string";
+console.log(string);
+var number = 69
+console.log(number)
+var boolean = true
+console.log(boolean)
+var obj
+obj = null
+console.log(obj)
+obj = 69
+console.log(obj)
+
+var array1 = [1,2,3,4,5]
+console.log(array1) 
+var array2 = ["gracen",69,true]
+console.log(array2)
+var array3 = [[1,2],[69,14,13,16],[34]]
+console.log(array3)
+console.log(array3[0][1])
